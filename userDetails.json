@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1530300605013,
+        "username": "naman",
+        "email": "username@abc.com",
+        "password": "password",
+        "phone": "1234512345"
+    },
+    {
+        "id": 1530300607978,
+        "username": "username",
+        "email": "username@abc.com",
+        "password": "password",
+        "phone": "1234512345"
+    },
+    {
+        "id": 1530300608870,
+        "username": "username",
+        "email": "username@abc.com",
+        "password": "password",
+        "phone": "1234512345"
+    },
+    {
+        "id": 1530300873674,
+        "username": "shiven",
+        "email": "username@abc.com",
+        "password": "shiven123",
+        "phone": "1234512345"
+    },
+    {
+        "id": 1530300879983,
+        "username": "akki",
+        "email": "username@abc.com",
+        "password": "akki123",
+        "phone": "1234512345"
+    },
+    {
+        "id": 1530348911745,
+        "username": "sunakshi",
+        "email": "sunakshi@abc.com",
+        "password": "sunakshi123",
+        "phone": "15935684"
+    },
+    {
+        "id": 1530349022126,
+        "username": "sunakshi",
+        "email": "sunakshi@abc.com",
+        "password": "sunakshi123",
+        "phone": "159236478"
+    },
+    {
+        "id": 1530349757399,
+        "username": "sunakshi",
+        "email": "sunakshi@abc.com",
+        "password": "sunakshi123",
+        "phone": "1593574268"
+    },
+    {
+        "id": 1530350121885,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350129248,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350131265,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350137735,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350187279,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350188826,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1530350189962,
+        "username": "kanika",
+        "email": "kanika@abc.com",
+        "password": "kanika123",
+        "phone": "1234567890"
+    }
+]
